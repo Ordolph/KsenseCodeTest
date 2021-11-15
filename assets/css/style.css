@@ -195,3 +195,27 @@ footer {
 .picture {
     float: left;
 }
+
+ .posts {
+    display: none
+}
+
+table {
+    display: inherit;
+}
+
+tr {
+    display: inherit;
+}
+
+td {
+    display: inherit;
+}
+
+thead {
+    display: inherit;
+}
+
+tbody {
+    display: inherit;
+}
