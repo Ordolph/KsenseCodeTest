@@ -22,7 +22,8 @@ $(document).ready(function () {
                     `<table class='posts' id='posts${userid}'>
                         <thead>
                             <tr>
-                                <td scope="col">Posts</td>
+                                <th scope="col">Post Id</th>
+                                <th scope="col">Post Body</th>
                             </tr>
                         </thead>
                         <tbody>
